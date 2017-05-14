@@ -1,0 +1,7 @@
+method,proc_time
+baseline,11.4
+cython,4.46
+numba,5.29
+multi,3.13
+multi-cython,1.28
+vectorised,0.00482
